@@ -206,13 +206,6 @@ body{
 .finalprod{
     margin-top: 85%;
 }
-
-.footer{
-    text-align: center;
-    color: rgb(52, 12, 90);
-    text-align: center;
-    font-size: x-large;
-  }
 ```
 
 ## OUTPUT:
