@@ -31,7 +31,6 @@
         <button class="mid products">BROWSE OUR PRODUCTS</button>
         <img src="cof2.png" class="mid finalprod" style="height: 300px; width: 300px;">
     </div>
-    <div class="footer"></div>
 </body>
 </html>
 ```
